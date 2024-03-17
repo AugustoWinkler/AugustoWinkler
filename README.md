@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">Currently stack</h3>
+<h3 align="center">Currently stack.</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="center">Learning</h3>
+<h3 align="center">Learning.</h3>
 
 ###
 
