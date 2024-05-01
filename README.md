@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- I'm 22 years old and live in Brazil - SP.<br>- Since 2023, I've been actively improving my programming skills. I have a strong passion for learning new technologies<br> - I enjoy playing chess and solving puzzles. ♟</p>
+<p align="left">- I'm 23 years old and live in Brazil - SP.<br>- Since 2023, I've been actively improving my programming skills. I have a strong passion for learning new technologies<br> - I enjoy playing chess and solving puzzles. ♟</p>
 
 ###
 
