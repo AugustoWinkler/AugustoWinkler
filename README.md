@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Augusto Winkler a Software Engineer Student</h2>
+<h2 align="center">I'm Augusto Winkler, a Software Engineering student</h2>
 
 ###
 
