@@ -1,30 +1,36 @@
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">Hello, World! </h1>
 
-###
-
-<h2 align="center">I'm Augusto Winkler, a Software Engineering student</h2>
-
-###
-
-<p align="left">- I'm 23 years old and live in Brazil - SP.<br>- Since 2023, I've been actively improving my programming skills. I have a strong passion for learning new technologies<br> - I enjoy playing chess and solving puzzles. ♟</p>
-
-###
-
-<a href="https://www.linkedin.com/in/augusto-winkler-a268b81bb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
+<h2 align="center">I'm Augusto Winkler, a Software Engineering & Web Development Enthusiast 🚀</h2>
 
 
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 **Software Engineering** student at *Estácio* & **Systems Analysis and Development** student at *Piaget*  
+- 🌍 Based in **Brazil - SP**  
+- 💡 Passionate about **Web Development** & always eager to learn new technologies  
+- ♟️ Love playing **chess** and solving **puzzles** in my free time  
+
+---
+
+### <p align="center">📬 Connect with me</p>
 
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/augusto-winkler-a268b81bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/AugustoWinkler">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=AugustoWinkler&show_icons=true&theme=transparent" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoWinkler&layout=compact&theme=transparent" />
+  </a>
+</p>
 
 
 
-
-<a href="https://github.com/AugustoWinkler/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AugustoWinkler&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/AugustoWinkler/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoWinkler&layout=donut&theme=transparent&card_width=320" />
-</a>
